@@ -16,3 +16,4 @@ public:
         return amount[nums.size()-1];
     }
 };
+
